@@ -12,4 +12,4 @@
 [@qwq_xinkeng](https://github.com/qwq-xinkeng)
 
 ## 开源协议
-本程序使用 GPL 3.0 开源协议开源
+本程序使用 GPL 2.0 开源协议开源
