@@ -10,3 +10,6 @@
 ## 作者
 [@ikun](https://github.com/liaofulong)<br/>
 [@qwq_xinkeng](https://github.com/qwq-xinkeng)
+
+## 开源协议
+本程序使用 GPL 3.0 开源协议开源
