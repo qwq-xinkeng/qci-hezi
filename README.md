@@ -6,3 +6,7 @@
 ## 盒子运行环境
 本盒子基于Python
 系统最低Win10，Win10以下系统可能运行报错，尝试安装运行库
+
+## 作者
+[@ikun](https://github.com/liaofulong)<br/>
+[@qwq_xinkeng](https://github.com/qwq-xinkeng)
